@@ -1,0 +1,1 @@
+Product 抽象产品类，具体产品都继承自它，ConcreteProduct 具体产品类 Creator 抽象工厂类 ConcreteCreator 具体工厂类 Client 场景类
