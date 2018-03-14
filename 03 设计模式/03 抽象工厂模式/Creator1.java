@@ -6,6 +6,7 @@ package com.liuyao;
 
 /**
  * 等级1的实现类
+ * 
  */
 public class Creator1 extends AbstractCreator {
     @Override
