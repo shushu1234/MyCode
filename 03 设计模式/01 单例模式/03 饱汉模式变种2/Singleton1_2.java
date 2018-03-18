@@ -15,7 +15,7 @@ public class Singleton1_2 {
     private Singleton1_2(){
 
     }
-    public synchronized static Singleton1_2 getInstance(){
+    public static Singleton1_2 getInstance(){
         if (singleton1_2==null){
             synchronized (Singleton1_2.class){
                 if (singleton1_2==null){
